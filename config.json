@@ -1,0 +1,13 @@
+{
+    "Name": "All-In-One",
+    "Description": "Farm Gold, Gems and even auto hatch eggs!",
+    "Author": "FyReO",
+    "Version": "v5.0.0",
+    "Image": "https://i.ibb.co/hxT2CPG5/New-Project-10.png",
+    "Tags": {
+        "Resolution": "Full Res Support",
+        "Type": "AHK"
+    },
+    "Main": "Main.ahk",
+    "MangoID": "ALLINONE"
+}
