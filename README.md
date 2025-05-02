@@ -19,7 +19,8 @@
 <h3 align="left">How To use</h3>
 
 ###
-[Watch on YouTube]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/5bPl3dQYJsc?si=MRbviRR6jIWV3zZd))
+[![Watch the video](https://img.youtube.com/vi/5bPl3dQYJsc/hqdefault.jpg)](https://www.youtube.com/watch?v=5bPl3dQYJsc)
+
 
 
 
