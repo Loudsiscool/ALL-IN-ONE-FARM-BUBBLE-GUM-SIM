@@ -19,8 +19,9 @@
 <h3 align="left">How To use</h3>
 
 ###
+[Watch on YouTube]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/5bPl3dQYJsc?si=MRbviRR6jIWV3zZd))
 
-<p align="left">[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/5bPl3dQYJsc?si=MRbviRR6jIWV3zZd)</p>
+
 
 ###
 
